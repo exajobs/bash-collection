@@ -12,6 +12,11 @@
 Bash is largely compatible with sh and incorporates useful features from the Korn shell ksh and the C shell csh. It is intended to be a conformant implementation of the IEEE POSIX Shell and Tools portion of the IEEE POSIX specification (IEEE Standard 1003.1). It offers functional improvements over sh for both interactive and programming use.
 
 
+To see what is your default interpreter execute command echo $SHELL:
+
+> $ echo $SHELL
+> /bin/bash
+
 
 ## Table of Contents
 
